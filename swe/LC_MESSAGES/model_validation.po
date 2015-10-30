@@ -2,15 +2,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BlendSwap\n"
 "POT-Creation-Date: 2013-12-04 19:50-0600\n"
-"PO-Revision-Date: 2013-12-08 17:55+0100\n"
-"Last-Translator: Anuga <anuga@anugas.e>\n"
+"PO-Revision-Date: 2015-10-30 14:45+0100\n"
+"Last-Translator: Johan Ekström <johan.ekstrom@anuga.se>\n"
 "Language-Team: Anuga <anuga@anuga.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.6.1\n"
+"X-Generator: Poedit 1.8.6\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: Model/Blend.php:validation for field title
@@ -93,7 +93,7 @@ msgstr ""
 
 #: Model/Collection.php:validation for field visibility
 msgid "Choose a visibility setting"
-msgstr ""
+msgstr "Välj ett visnings läge"
 
 #: Model/Collection.php:validation for field visibility
 msgid "Invalid visibility value!!!"
@@ -134,17 +134,17 @@ msgid "This is not a url"
 msgstr "Detta är inte en url"
 
 #: Model/Email.php:validation for field name
-#, fuzzy
 msgid "this email must have a name"
-msgstr "detta mailet måste ha ett namn"
+msgstr "detta emailet måste ha ett namn"
 
 #: Model/Email.php:validation for field pointer
 msgid "emails must have a call key so they can be called from inside the app."
 msgstr ""
+"email måste ha en \"call key\" så dem kan bli kallade från insidan av appen."
 
 #: Model/Email.php:validation for field pointer
 msgid "Only letters and underscores are allowed"
-msgstr ""
+msgstr "Endast bokstäver och understryckning är tillåtet"
 
 #: Model/Message.php:validation for field body
 msgid "Empty messages are not allowed."
@@ -162,9 +162,8 @@ msgid "This does not look like an URL"
 msgstr ""
 
 #: Model/Profile.php:validation for field description
-#, fuzzy
 msgid "The bio must be between 24 and 1024 characters long"
-msgstr "Blend namnet måste vara mellan 2 och 140 tecken långt!"
+msgstr "Biografin måste vara mellan 24 och 1024 tecken långt!"
 
 #: Model/Question.php:validation for field body
 msgid "Your question needs a body with details."
@@ -209,15 +208,15 @@ msgstr ""
 #: object_id;validation object_class;validation object_data;validation log
 #: Model/Term.php:validation slug
 msgid "notEmpty"
-msgstr ""
+msgstr "notEmpty"
 
 #: Model/Revision.php:validation for field object_class
 msgid "alphanumeric"
-msgstr ""
+msgstr "alfanumerisk"
 
 #: Model/Term.php:validation for field slug
 msgid "unique"
-msgstr ""
+msgstr "unik"
 
 #: Model/Term.php:validation for field slug
 msgid "validChars"
@@ -229,11 +228,11 @@ msgstr "mellan"
 
 #: Model/Termrel.php:validation for field term_id
 msgid "value"
-msgstr ""
+msgstr "värde"
 
 #: Model/User.php:validation for field username
 msgid "Only letters and numbers please."
-msgstr ""
+msgstr "Endast bokstäver och tecken, tack!"
 
 #: Model/User.php:validation for field username
 msgid "The username must be between 2 and 32 characters long!"
@@ -249,7 +248,7 @@ msgstr "Det användarnamnet existerar redan."
 
 #: Model/User.php:validation for field email;validation password
 msgid "Can not be left empty"
-msgstr ""
+msgstr "Kan ej vara tomt"
 
 #: Model/User.php:validation for field email
 msgid "Does not look like an email"
@@ -268,11 +267,11 @@ msgstr ""
 
 #: Model/User.php:validation for field password
 msgid "Must be between 8 and 128 characters long"
-msgstr ""
+msgstr "Måste var mellan åtta och 128 tecken långt."
 
 #: Model/User.php:validation for field first_name;validation last_name
 msgid "Must be 2 letters or more."
-msgstr ""
+msgstr "Måste vara 2 bokstäver eller mer."
 
 #: Model/User.php:validation for field accept_terms
 msgid "You must accept the Terms Of Use!"
