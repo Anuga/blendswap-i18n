@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BlendSwap\n"
 "POT-Creation-Date: 2015-10-30 13:20+0100\n"
-"PO-Revision-Date: 2015-10-30 14:38+0100\n"
+"PO-Revision-Date: 2015-10-30 18:28+0100\n"
 "Last-Translator: Johan Ekström <johan.ekstrom@anuga.se>\n"
 "Language-Team: Anuga <anuga@anuga.se>\n"
 "Language: sv\n"
@@ -221,7 +221,7 @@ msgstr "Gränsen blev ej raderad"
 
 #: Controller/LimitsController.php:200
 msgid "Your bandwidth was recalculated"
-msgstr ""
+msgstr "Din bandbredd är om kalkylerad"
 
 #: Controller/LimitsController.php:200
 msgid "No changes were made to your bandwidth limit."
@@ -534,7 +534,7 @@ msgstr ""
 
 #: Controller/TermrelsController.php:30
 msgid "Term removed"
-msgstr ""
+msgstr "Uttryck borttaget"
 
 #: Controller/TermsController.php:64 View/Blends/_edit.ctp:37
 #: View/Elements/blendswap-top-menu.ctp:94 View/Elements/navs/taxonomies.ctp:5
@@ -547,7 +547,7 @@ msgstr ""
 
 #: Controller/UsersController.php:213
 msgid "The account was saved correctly."
-msgstr ""
+msgstr "Kontot blev sparat korrekt."
 
 #: Controller/UsersController.php:216
 msgid ""
@@ -605,7 +605,7 @@ msgstr ""
 
 #: Controller/UsersController.php:663
 msgid "You are now logged off Blend Swap, see you soon!"
-msgstr ""
+msgstr "Du har nu loggat ut från Blend Swap, ses snart igen!"
 
 #: Controller/UsersController.php:695;727;762
 msgid "Invalid user"
@@ -708,7 +708,7 @@ msgstr "Sista sidan"
 
 #: View/Answers/admin_add.ctp:4
 msgid "Admin Add Response"
-msgstr ""
+msgstr "Admin Lägg till Svar"
 
 #: View/Answers/admin_add.ctp:9 View/Answers/admin_edit.ctp:10
 #: View/Blends/admin_add.ctp:25 View/Comments/admin_edit.ctp:12
@@ -768,7 +768,7 @@ msgstr ""
 
 #: View/Answers/admin_edit.ctp:4
 msgid "Admin Edit Response"
-msgstr ""
+msgstr "Admin Ändra Svar"
 
 #: View/Answers/admin_edit.ctp:16 View/Answers/admin_index.ctp:28
 #: View/Blends/media.ctp:51;55;104;108 View/Blends/view.ctp:103
@@ -939,7 +939,7 @@ msgstr ""
 
 #: View/App/search.ctp:109
 msgid "You can search for anything on Blend Swap."
-msgstr ""
+msgstr "Du kan nu söka igenom Blend Swap efter vad som helst."
 
 #: View/App/status.ctp:2 View/Elements/blendswap-top-menu.ctp:45
 msgid "Site Status"
@@ -955,7 +955,7 @@ msgstr "Avaktiverad"
 
 #: View/Blends/_edit.ctp:5 View/Blends/add.ctp:7 View/Requests/view.ctp:19
 msgid "Basic data"
-msgstr ""
+msgstr "Basic data"
 
 #: View/Blends/_edit.ctp:9 View/Blends/add.ctp:12
 msgid "Blend Name"
@@ -972,7 +972,7 @@ msgstr ""
 
 #: View/Blends/_edit.ctp:11 View/Blends/add.ctp:14
 msgid "3D Preview URL"
-msgstr ""
+msgstr "3D Förhandsgransknings URL"
 
 #: View/Blends/_edit.ctp:11
 msgid "Optional"
@@ -1014,7 +1014,7 @@ msgstr "Logga dina förändringar"
 
 #: View/Blends/_edit.ctp:95
 msgid "What did you change?"
-msgstr ""
+msgstr "Vad ändrade du?"
 
 #: View/Blends/_edit.ctp:98
 msgid "Save Changes"
@@ -1138,7 +1138,7 @@ msgstr "Uppladdad"
 #: View/Blends/media.ctp:23;88 View/Requests/media.ctp:19
 #: View/Users/portfolio.ctp:42
 msgid "Visibility"
-msgstr ""
+msgstr "Tillgänglighet"
 
 #: View/Blends/media.ctp:52;58;105;111 View/Requests/media.ctp:36;42
 #: View/Users/portfolio.ctp:61
@@ -1159,7 +1159,7 @@ msgstr "Förhandsgranska bilder"
 #: View/Blends/media.ctp:86 View/Requests/media.ctp:17
 #: View/Users/portfolio.ctp:40
 msgid "Thumbnail"
-msgstr ""
+msgstr "Minityr"
 
 #: View/Blends/media.ctp:108 View/Requests/media.ctp:39
 #: View/Users/portfolio.ctp:58
@@ -1171,7 +1171,7 @@ msgstr ""
 
 #: View/Blends/media.ctp:134 View/Requests/media.ctp:65
 msgid "Add files"
-msgstr ""
+msgstr "Lägg till filer"
 
 #: View/Blends/media.ctp:175
 msgid "Upload files"
@@ -1185,7 +1185,7 @@ msgstr ""
 
 #: View/Blends/user.ctp:5 View/Users/view.ctp:228
 msgid "Blends by %s"
-msgstr ""
+msgstr "Blends av %s"
 
 #: View/Blends/user.ctp:8
 msgid "These are your own blends"
@@ -1208,7 +1208,7 @@ msgstr ""
 
 #: View/Blends/view.ctp:19
 msgid "Blend author"
-msgstr ""
+msgstr "Blend författare"
 
 #: View/Blends/view.ctp:42
 msgid "Site Stats"
@@ -1216,11 +1216,11 @@ msgstr "Site Status"
 
 #: View/Blends/view.ctp:59
 msgid "Blender %s"
-msgstr ""
+msgstr "Blender %s"
 
 #: View/Blends/view.ctp:63
 msgid "Views"
-msgstr ""
+msgstr "Besök"
 
 #: View/Blends/view.ctp:78
 msgid "This blend is marked as fan art"
@@ -1317,11 +1317,11 @@ msgstr "Användarnamn"
 
 #: View/Comments/admin_view.ctp:19
 msgid "User Email"
-msgstr ""
+msgstr "Användare eMail"
 
 #: View/Comments/admin_view.ctp:24
 msgid "User Ip"
-msgstr ""
+msgstr "Användare IP"
 
 #: View/Comments/admin_view.ctp:39 View/Events/admin_view.ctp:54
 #: View/Questions/admin_view.ctp:24 View/Reports/view.ctp:29
@@ -1331,19 +1331,19 @@ msgstr "Kropp"
 
 #: View/Comments/admin_view.ctp:54
 msgid "Comment Agent"
-msgstr ""
+msgstr "Kommentar Agent"
 
 #: View/Comments/admin_view.ctp:59
 msgid "Comment Type"
-msgstr ""
+msgstr "Typ av Kommentar"
 
 #: View/Comments/admin_view.ctp:64
 msgid "Comment Parent"
-msgstr ""
+msgstr "Kommentar Förälder"
 
 #: View/Comments/admin_view.ctp:74
 msgid "Comment Subscribe"
-msgstr ""
+msgstr "Prenumera på Kommentarer"
 
 #: View/Comments/admin_view.ctp:85
 msgid "Delete Comment"
@@ -1359,7 +1359,7 @@ msgstr ""
 
 #: View/Conversations/add.ctp:4
 msgid "Add Chat"
-msgstr ""
+msgstr "Lägg till chat"
 
 #: View/Conversations/add.ctp:16 View/Conversations/edit.ctp:18
 msgid "List Chats"
@@ -1377,9 +1377,10 @@ msgstr "Meddelanden"
 msgid "This blend is incomplete!!!"
 msgstr "Denna blend är ofullständig!!!"
 
+# English version contains a space in the beginning
 #: View/Elements/blend_status.ctp:6
 msgid " please upload the missing files"
-msgstr ""
+msgstr " var snäll och ladda den saknade filen"
 
 #: View/Elements/blend_status.ctp:10
 msgid ""
@@ -1430,11 +1431,11 @@ msgstr "Kontakt"
 
 #: View/Elements/blendswap-top-menu.ctp:40
 msgid "About Blend Swap"
-msgstr ""
+msgstr "Om Blend Swap"
 
 #: View/Elements/blendswap-top-menu.ctp:51
 msgid "Terms of use"
-msgstr ""
+msgstr "Användare avtal"
 
 #: View/Elements/blendswap-top-menu.ctp:56;496
 msgid "F.A.Q."
@@ -1458,7 +1459,7 @@ msgstr "Alla Blends"
 
 #: View/Elements/blendswap-top-menu.ctp:99
 msgid "Blend Collections"
-msgstr ""
+msgstr "Blend Kollection"
 
 #: View/Elements/blendswap-top-menu.ctp:105
 msgid "By File License"
@@ -1466,23 +1467,23 @@ msgstr "Efter Fil license"
 
 #: View/Elements/blendswap-top-menu.ctp:110
 msgid "Under CC-0 License"
-msgstr ""
+msgstr "Under CC-0 Licens"
 
 #: View/Elements/blendswap-top-menu.ctp:115
 msgid "Under CC-BY License"
-msgstr ""
+msgstr "Under CC-BY Licens"
 
 #: View/Elements/blendswap-top-menu.ctp:120
 msgid "Under CC-BY-NC License"
-msgstr ""
+msgstr "Under CC-BY-NC Licens"
 
 #: View/Elements/blendswap-top-menu.ctp:125
 msgid "Under CC-BY-SA License"
-msgstr ""
+msgstr "Under CC-BY-SA Licens"
 
 #: View/Elements/blendswap-top-menu.ctp:130
 msgid "Under CC-BY-NC-SA License"
-msgstr ""
+msgstr "Under CC-BY-NC-SA Licens"
 
 #: View/Elements/blendswap-top-menu.ctp:137
 msgid "By Blender Version"
@@ -1507,7 +1508,7 @@ msgstr ""
 #: View/Elements/blendswap-top-menu.ctp:196 View/Users/bandwidth.ctp:29
 #: View/Users/view.ctp:239
 msgid "Requests"
-msgstr ""
+msgstr "Förfrågningar"
 
 #: View/Elements/blendswap-top-menu.ctp:202
 msgid "Open New Request"
@@ -1519,7 +1520,7 @@ msgstr "Alla Förfrågningar"
 
 #: View/Elements/blendswap-top-menu.ctp:214 View/Users/bandwidth.ctp:30
 msgid "Weekend Challenges"
-msgstr ""
+msgstr "Helg Utmaningar"
 
 #: View/Elements/blendswap-top-menu.ctp:220
 msgid "Open Requests"
@@ -1531,7 +1532,7 @@ msgstr "Stängda Förfrågningar"
 
 #: View/Elements/blendswap-top-menu.ctp:245
 msgid "Ask New Question"
-msgstr ""
+msgstr "Fråga en ny Fråga"
 
 #: View/Elements/blendswap-top-menu.ctp:252
 msgid "All Questions"
@@ -1551,23 +1552,23 @@ msgstr "Användare"
 
 #: View/Elements/blendswap-top-menu.ctp:281
 msgid "Artists For Hire"
-msgstr ""
+msgstr "Artist till uthyrning"
 
 #: View/Elements/blendswap-top-menu.ctp:286
 msgid "Top ranking"
-msgstr ""
+msgstr "Topp rankning"
 
 #: View/Elements/blendswap-top-menu.ctp:291
 msgid "User Achievements"
-msgstr ""
+msgstr "Användare Prestationer"
 
 #: View/Elements/blendswap-top-menu.ctp:299
 msgid "Search"
-msgstr ""
+msgstr "Sök"
 
 #: View/Elements/blendswap-top-menu.ctp:320;396
 msgid "Upgrade now"
-msgstr ""
+msgstr "Uppgradera nu"
 
 #: View/Elements/blendswap-top-menu.ctp:337 View/Users/edit.ctp:1
 msgid "Account & Settings"
@@ -1594,7 +1595,7 @@ msgstr ""
 #: View/Elements/blendswap-top-menu.ctp:411 View/Limits/admin_view.ctp:29
 #: View/Limits/view.ctp:32 View/Users/bandwidth.ctp:58
 msgid "Remaining"
-msgstr ""
+msgstr "Återstående"
 
 #: View/Elements/blendswap-top-menu.ctp:417 View/Limits/view.ctp:40
 msgid "Initialized on"
@@ -1606,7 +1607,7 @@ msgstr ""
 
 #: View/Elements/blendswap-top-menu.ctp:429
 msgid "Extra"
-msgstr ""
+msgstr "Extra"
 
 #: View/Elements/blendswap-top-menu.ctp:444 View/Elements/navs/usernav.ctp:132
 #: View/Users/bandwidth.ctp:1
@@ -1647,7 +1648,7 @@ msgstr "Medvetna Felaktigheter"
 
 #: View/Elements/blendswap-top-menu.ctp:511
 msgid "All Documentation"
-msgstr ""
+msgstr "Alla Dokumentation"
 
 #: View/Elements/blendswap-top-menu.ctp:517
 msgid "Contact Blend Swap"
@@ -1663,11 +1664,11 @@ msgstr "Laddar kommentarer..."
 
 #: View/Elements/frontend_footer.ctp:87
 msgid "Upgrade Now"
-msgstr ""
+msgstr "Uppgradera Nu"
 
 #: View/Elements/frontend_footer.ctp:127
 msgid "All rights reserved"
-msgstr ""
+msgstr "Alla rättigheter resarverade"
 
 #: View/Elements/frontend_footer.ctp:128
 msgid "Except where noted, all content is released under"
@@ -1679,7 +1680,7 @@ msgstr "Behöver du hjälp med Blender?"
 
 #: View/Elements/new_question.ctp:5
 msgid "Ask a Question!"
-msgstr ""
+msgstr "Fråga en Fråga!"
 
 #: View/Elements/placeholder.ctp:1
 msgid "Animals"
@@ -1691,11 +1692,11 @@ msgstr ""
 
 #: View/Elements/placeholder.ctp:3;33
 msgid "Animation"
-msgstr ""
+msgstr "Animation"
 
 #: View/Elements/placeholder.ctp:4
 msgid "Architecture"
-msgstr ""
+msgstr "Arkitektur "
 
 #: View/Elements/placeholder.ctp:5
 msgid "Blender Themes"
@@ -1795,19 +1796,19 @@ msgstr ""
 
 #: View/Elements/placeholder.ctp:29
 msgid "Textures"
-msgstr ""
+msgstr "Textur"
 
 #: View/Elements/placeholder.ctp:30
 msgid "Tools"
-msgstr ""
+msgstr "Vertyg"
 
 #: View/Elements/placeholder.ctp:31
 msgid "Vehicles"
-msgstr ""
+msgstr "Transportfordon"
 
 #: View/Elements/placeholder.ctp:32
 msgid "Weapons"
-msgstr ""
+msgstr "Vapen"
 
 #: View/Elements/placeholder.ctp:34
 msgid "Model Realism"
@@ -1855,7 +1856,7 @@ msgstr "Animerad"
 
 #: View/Elements/placeholder.ctp:45
 msgid "UV Unwrapped"
-msgstr ""
+msgstr "UV Uppackad"
 
 #: View/Elements/placeholder.ctp:46
 msgid "Unapplied Multires"
@@ -1891,7 +1892,7 @@ msgstr "Low-Poly"
 
 #: View/Elements/placeholder.ctp:54
 msgid "Texturing Depth"
-msgstr ""
+msgstr "Texturedjup"
 
 #: View/Elements/placeholder.ctp:55
 msgid "Full Pass Textured"
@@ -1907,7 +1908,7 @@ msgstr ""
 
 #: View/Elements/placeholder.ctp:58
 msgid "Baked Normals"
-msgstr ""
+msgstr "Baked Normals"
 
 #: View/Elements/placeholder.ctp:61
 msgid "January"
@@ -1991,7 +1992,7 @@ msgstr ""
 
 #: View/Elements/placeholder.ctp:87
 msgid "Yearly Associate"
-msgstr ""
+msgstr "Årlig Bidragsgivare"
 
 #: View/Elements/placeholder.ctp:88
 msgid "Free Account"
@@ -2056,7 +2057,7 @@ msgstr ""
 
 #: View/Elements/placeholder.ctp:104
 msgid "Your files were re-packed successfully."
-msgstr ""
+msgstr "Dina filer blev om-packade utan några problem."
 
 #: View/Elements/placeholder.ctp:105
 msgid "AN ERROR OCURRED AND THE FILE WAS NOT RE-PACKED."
@@ -2228,11 +2229,11 @@ msgstr ""
 
 #: View/Elements/placeholder.ctp:155
 msgid "Blend Editor"
-msgstr ""
+msgstr "Blend Redigerare"
 
 #: View/Elements/placeholder.ctp:156
 msgid "Blend Maintainer"
-msgstr ""
+msgstr "Blend Underhållare"
 
 #: View/Elements/placeholder.ctp:158
 msgid "Collector"
@@ -2244,7 +2245,7 @@ msgstr "Gillad av"
 
 #: View/Elements/templates.ctp:12 View/Elements/bars/news_actions.ctp:24
 msgid "Unfollow"
-msgstr ""
+msgstr "Sluta följa"
 
 #: View/Elements/templates.ctp:13 View/Elements/bars/news_actions.ctp:31
 msgid "Follow"
@@ -2256,11 +2257,11 @@ msgstr "Gilla"
 
 #: View/Elements/bars/blend_actions.ctp:8
 msgid "Add this blend to a collection"
-msgstr ""
+msgstr "Lägg till denna blend till en kollektion"
 
 #: View/Elements/bars/blend_actions.ctp:11
 msgid "Add to"
-msgstr ""
+msgstr "Lägg till"
 
 #: View/Elements/bars/blend_actions.ctp:14
 msgid "Share this"
@@ -2276,11 +2277,11 @@ msgstr ""
 
 #: View/Elements/bars/owner_bar.ctp:5
 msgid "Blend Page"
-msgstr ""
+msgstr "Blend Sida"
 
 #: View/Elements/bars/owner_bar.ctp:11
 msgid "View the blend page as it looks published"
-msgstr ""
+msgstr "Förhandsgranska blend sidan"
 
 #: View/Elements/bars/owner_bar.ctp:18
 #: View/Elements/bars/request_actions.ctp:50
@@ -2353,7 +2354,7 @@ msgstr ""
 
 #: View/Elements/forms/commentForm.ctp:17 View/Messages/conversation.ctp:35
 msgid "You can use %s"
-msgstr ""
+msgstr "Du kan använda %s"
 
 #: View/Elements/forms/commentForm.ctp:23
 msgid "Submit comment box contents"
@@ -2374,11 +2375,11 @@ msgstr "Uppgradera nu!!!"
 
 #: View/Elements/navs/usernav.ctp:6
 msgid "Around me"
-msgstr ""
+msgstr "Runt om mig"
 
 #: View/Elements/navs/usernav.ctp:10
 msgid "All Activity"
-msgstr ""
+msgstr "Alla Aktiviteter"
 
 #: View/Elements/navs/usernav.ctp:20
 msgid "The Weekend Challenge %s is in progress right now!"
@@ -2386,7 +2387,7 @@ msgstr ""
 
 #: View/Elements/navs/usernav.ctp:28
 msgid "Buzz"
-msgstr ""
+msgstr "Buzz"
 
 #: View/Elements/navs/usernav.ctp:38
 msgid "Conversations"
@@ -2426,15 +2427,15 @@ msgstr "Byta lösenord"
 
 #: View/Events/admin_add.ctp:4
 msgid "Admin Add Event"
-msgstr ""
+msgstr "Admin Lägg till Event"
 
 #: View/Events/admin_edit.ctp:4
 msgid "Admin Edit Event"
-msgstr ""
+msgstr "Admin Ändra Event"
 
 #: View/Events/admin_view.ctp:2
 msgid "Event"
-msgstr ""
+msgstr "Event"
 
 #: View/Events/admin_view.ctp:24
 msgid "Data"
@@ -2447,7 +2448,7 @@ msgstr ""
 #: View/Events/admin_view.ctp:34 View/Items/admin_view.ctp:34
 #: View/Terms/_view.ctp:19 View/Terms/admin_view.ctp:19
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: View/Events/admin_view.ctp:39
 msgid "Href"
@@ -2483,7 +2484,7 @@ msgstr "Nytt event"
 
 #: View/Features/admin_add.ctp:4
 msgid "Admin Add Feature"
-msgstr ""
+msgstr "Admin Lägg till Egenskap"
 
 #: View/Features/admin_add.ctp:16 View/Features/admin_edit.ctp:18
 #: View/Features/admin_view.ctp:36
@@ -2492,7 +2493,7 @@ msgstr "Lista Egenskaper"
 
 #: View/Features/admin_edit.ctp:4
 msgid "Admin Edit Feature"
-msgstr ""
+msgstr "Admin Ändra Egenskap"
 
 #: View/Features/admin_index.ctp:2
 msgid "Features"
@@ -2507,7 +2508,7 @@ msgstr ""
 #: View/Profiles/admin_view.ctp:9 View/Questions/admin_view.ctp:19
 #: View/Reports/view.ctp:19 View/Requests/admin_view.ctp:62
 msgid "User Id"
-msgstr ""
+msgstr "Användare ID"
 
 #: View/Features/admin_view.ctp:34
 msgid "Edit Feature"
@@ -2623,7 +2624,7 @@ msgstr "Radera Föremål"
 
 #: View/Limits/admin_add.ctp:4
 msgid "Add Limit"
-msgstr ""
+msgstr "Lägg till en begränsningar"
 
 #: View/Limits/admin_add.ctp:17 View/Limits/admin_edit.ctp:19
 #: View/Limits/admin_view.ctp:46
@@ -2656,7 +2657,7 @@ msgstr ""
 
 #: View/Limits/view.ctp:10
 msgid "Why are Unlimited Downloads a paid feature?"
-msgstr ""
+msgstr "Varför är Obegränsade Nerladdningar en betaltjänst?"
 
 #: View/Limits/view.ctp:17
 msgid "Currently Active Limit"
@@ -2668,7 +2669,7 @@ msgstr ""
 
 #: View/Limits/view.ctp:62
 msgid "You currently have %s of extra bandwidth"
-msgstr ""
+msgstr "Du har förtillfället %s extra bandbredd"
 
 #: View/Limits/view.ctp:63
 msgid "This extra bandwidth does not expire until you use it all"
@@ -2696,7 +2697,7 @@ msgstr ""
 
 #: View/Memberships/admin_add.ctp:4
 msgid "Admin Add Membership"
-msgstr ""
+msgstr "Admin Lägg till Medlemskap"
 
 #: View/Memberships/admin_add.ctp:18 View/Memberships/admin_edit.ctp:21
 #: View/Memberships/admin_view.ctp:51
@@ -2705,7 +2706,7 @@ msgstr "Lista Medlemskap"
 
 #: View/Memberships/admin_edit.ctp:4
 msgid "Admin Edit Membership"
-msgstr ""
+msgstr "Admin Ändra Medlemskap"
 
 #: View/Memberships/admin_view.ctp:2
 msgid "Membership"
@@ -2789,7 +2790,7 @@ msgstr ""
 
 #: View/Memberships/view.ctp:111
 msgid "yes"
-msgstr ""
+msgstr "ja"
 
 #: View/Memberships/view.ctp:111
 msgid "no"
@@ -2803,7 +2804,7 @@ msgstr ""
 
 #: View/Messages/add.ctp:4
 msgid "Add Message"
-msgstr ""
+msgstr "Lägg till ett meddelande"
 
 #: View/Messages/add.ctp:17 View/Messages/edit.ctp:19
 msgid "List Messages"
@@ -2811,7 +2812,7 @@ msgstr "Lista Meddelandel"
 
 #: View/Messages/conversation.ctp:8
 msgid "with"
-msgstr ""
+msgstr "med"
 
 #: View/Messages/conversation.ctp:23
 msgid "The message will be deleted, are you sure?"
@@ -2819,7 +2820,7 @@ msgstr ""
 
 #: View/Messages/conversation.ctp:35
 msgid "Reply"
-msgstr ""
+msgstr "Svara"
 
 #: View/Messages/edit.ctp:4
 msgid "Edit Message"
@@ -2833,9 +2834,10 @@ msgstr "Spara"
 msgid "Posted by"
 msgstr "Postad av"
 
+# English version contains a space in the beginning
 #: View/News/index.ctp:21
 msgid " Read More &rarr;"
-msgstr ""
+msgstr " Läs Mer &rarr;"
 
 #: View/News/rss/index.ctp:2
 msgid "News Updates"
@@ -2893,7 +2895,7 @@ msgstr "Lista Sidor"
 
 #: View/Pages/help.ctp:4 View/Questions/add.ctp:4
 msgid "What do you need help with?"
-msgstr ""
+msgstr "Vad behöver du hjälp med?"
 
 #: View/Pages/help.ctp:8
 msgid "I have to report a bad blend / I have found a ripped blend"
@@ -3028,7 +3030,7 @@ msgstr ""
 
 #: View/Pages/help.ctp:87
 msgid "Blend Swap says \"the request was blackholed\""
-msgstr ""
+msgstr "Blend Swap säger \"förfrågan blev blackholed\""
 
 #: View/Pages/help.ctp:91
 msgid ""
@@ -3074,15 +3076,15 @@ msgstr ""
 
 #: View/Pages/welcome.ctp:2
 msgid "Welcome!"
-msgstr ""
+msgstr "Välkommen!"
 
 #: View/Pages/welcome.ctp:132
 msgid "Why are you not logged in yet?"
-msgstr ""
+msgstr "Varför är inte du inloggad än?"
 
 #: View/Profiles/admin_add.ctp:4
 msgid "Admin Add Profile"
-msgstr ""
+msgstr "Admin Lägg till Profil"
 
 #: View/Profiles/admin_add.ctp:27 View/Profiles/admin_edit.ctp:29
 #: View/Profiles/admin_view.ctp:96
@@ -3091,7 +3093,7 @@ msgstr "Lista Profiler"
 
 #: View/Profiles/admin_edit.ctp:4
 msgid "Admin Edit Profile"
-msgstr ""
+msgstr "Admin Ändra Profil"
 
 #: View/Profiles/admin_index.ctp:2
 msgid "Profiles"
@@ -3115,11 +3117,11 @@ msgstr "Hemsida"
 
 #: View/Profiles/admin_view.ctp:39
 msgid "Bio"
-msgstr ""
+msgstr "Biografi"
 
 #: View/Profiles/admin_view.ctp:79
 msgid "Blend Count"
-msgstr ""
+msgstr "Blend Visningar"
 
 #: View/Profiles/admin_view.ctp:95
 msgid "Delete Profile"
@@ -3131,7 +3133,7 @@ msgstr "Ny Profil"
 
 #: View/Profiles/edit.ctp:19
 msgid "Where can others locate you? Enter full urls"
-msgstr ""
+msgstr "Var kan andra hitta dig? Skriv in fullständiga urls"
 
 #: View/Profiles/edit.ctp:31
 msgid ""
@@ -3141,7 +3143,7 @@ msgstr ""
 
 #: View/Questions/add.ctp:11
 msgid "Blend Swap is not working properly"
-msgstr ""
+msgstr "Blend Swap har tekniska problem förtillfället"
 
 #: View/Questions/add.ctp:16
 msgid ""
@@ -3219,7 +3221,7 @@ msgstr ""
 
 #: View/Questions/admin_add.ctp:4
 msgid "Admin Add Question"
-msgstr ""
+msgstr "Admin Lägg till Fråga"
 
 #: View/Questions/admin_add.ctp:16 View/Questions/admin_edit.ctp:17
 #: View/Questions/admin_view.ctp:41
@@ -3228,7 +3230,7 @@ msgstr "Lista frågor"
 
 #: View/Questions/admin_edit.ctp:4
 msgid "Admin Edit Question"
-msgstr ""
+msgstr "Admin Ändra Fråga"
 
 #: View/Questions/admin_view.ctp:2
 msgid "Question"
@@ -3258,7 +3260,7 @@ msgstr "Spara ändringar"
 #: View/Questions/index.ctp:34 View/Questions/user.ctp:38
 #: View/Questions/view.ctp:26 View/Terms/tagged.ctp:27
 msgid "asked"
-msgstr ""
+msgstr "frågad"
 
 #: View/Questions/user.ctp:11 View/Users/view.ctp:246
 msgid "Questions by %s"
@@ -3282,7 +3284,7 @@ msgstr ""
 
 #: View/Reports/__add.ctp:4
 msgid "Add Report"
-msgstr ""
+msgstr "Lägg till en rapport"
 
 #: View/Reports/__add.ctp:16 View/Reports/admin_edit.ctp:18
 #: View/Reports/admin_view.ctp:108 View/Reports/view.ctp:41
@@ -3308,7 +3310,7 @@ msgstr "Ny Rapport"
 
 #: View/Reports/blend.ctp:5 View/Reports/index.ctp:7
 msgid "What's up with the blend file?"
-msgstr ""
+msgstr "Vad är det med blend filen?"
 
 #: View/Reports/blend.ctp:13 View/Reports/index.ctp:15
 msgid "I need to get in touch with the blend author."
@@ -3351,6 +3353,7 @@ msgid ""
 "Zip files are compressed packages, they allow us to serve the file in less "
 "time."
 msgstr ""
+"Zipfiler är komprimerade packet, de tillåter oss att erbjuda filen snabbare."
 
 #: View/Reports/blend.ctp:55
 msgid ""
@@ -3385,7 +3388,7 @@ msgstr ""
 
 #: View/Reports/blend.ctp:75
 msgid "Use this form only if:"
-msgstr ""
+msgstr "Använd bara denna formen om:"
 
 #: View/Reports/blend.ctp:79
 msgid ""
@@ -3427,7 +3430,7 @@ msgstr ""
 
 #: View/Reports/blend.ctp:106
 msgid "Errors"
-msgstr ""
+msgstr "Fel"
 
 #: View/Reports/blend.ctp:107
 msgid "After reloading I see no preview image."
@@ -3447,7 +3450,7 @@ msgstr ""
 
 #: View/Reports/blend.ctp:111
 msgid "The .zip file contains no .blend file"
-msgstr ""
+msgstr "Zipfilen innehåller ingen .blend fil"
 
 #: View/Reports/blend.ctp:112
 msgid "The blend has objects badly setup scale"
@@ -3545,7 +3548,7 @@ msgstr ""
 
 #: View/Requests/add.ctp:12
 msgid "your profile"
-msgstr ""
+msgstr "din profil"
 
 #: View/Requests/add.ctp:13
 msgid "If the error persists please %s."
@@ -3583,7 +3586,7 @@ msgstr ""
 
 #: View/Requests/add.ctp:31
 msgid "upgrade"
-msgstr ""
+msgstr "uppgradera"
 
 #: View/Requests/add.ctp:32
 msgid "Associate Membership"
@@ -3591,7 +3594,7 @@ msgstr ""
 
 #: View/Requests/add.ctp:36 View/Users/stats_unavailable.ctp:18
 msgid "Upgrade now!"
-msgstr ""
+msgstr "Upgradera nu!"
 
 #: View/Requests/add.ctp:70
 msgid "Request a Blend"
@@ -3623,11 +3626,11 @@ msgstr ""
 
 #: View/Requests/admin_add.ctp:4
 msgid "Admin Add Request"
-msgstr ""
+msgstr "Admin Lägg till Förfrågan"
 
 #: View/Requests/admin_edit.ctp:12
 msgid "Admin Edit Request"
-msgstr ""
+msgstr "Admin Ändra Förfrågan"
 
 #: View/Requests/admin_view.ctp:24
 msgid "Title"
@@ -3689,7 +3692,7 @@ msgstr ""
 
 #: View/Requests/view.ctp:53
 msgid "Respond"
-msgstr ""
+msgstr "Svar"
 
 #: View/Requests/view.ctp:64
 msgid "Send Response"
@@ -3709,7 +3712,7 @@ msgstr ""
 
 #: View/Requests/view.ctp:157
 msgid "Weekend Challenge"
-msgstr ""
+msgstr "Helg Utmaning"
 
 #: View/Requests/rss/index.ctp:2
 msgid "Newest Requests"
@@ -3721,7 +3724,7 @@ msgstr ""
 
 #: View/Terms/_view.ctp:2 View/Terms/admin_view.ctp:2
 msgid "Term"
-msgstr ""
+msgstr "Uttryck"
 
 #: View/Terms/_view.ctp:9 View/Terms/admin_view.ctp:9
 msgid "Name"
@@ -3751,23 +3754,23 @@ msgstr "Nytt Vilkor"
 
 #: View/Terms/add.ctp:4
 msgid "Add Term"
-msgstr ""
+msgstr "Lägg till en benämning"
 
 #: View/Terms/admin_add.ctp:4
 msgid "Admin Add Term"
-msgstr ""
+msgstr "Admin Lägg till Uttryck"
 
 #: View/Terms/admin_edit.ctp:4
 msgid "Admin Edit Term"
-msgstr ""
+msgstr "Admin Ändra Uttryck"
 
 #: View/Terms/category.ctp:28
 msgid "Category: %s"
-msgstr ""
+msgstr "Kategori: %s"
 
 #: View/Terms/index.ctp:2
 msgid "Terms"
-msgstr ""
+msgstr "Uttryck"
 
 #: View/Terms/tag.ctp:28
 msgid "Tag: %s"
@@ -3787,7 +3790,7 @@ msgstr ""
 
 #: View/Users/add.ctp:172
 msgid "Terms of Use"
-msgstr ""
+msgstr "Användare Avtal"
 
 #: View/Users/add.ctp:174
 msgid "I have read and agree with the %s"
@@ -3799,11 +3802,11 @@ msgstr ""
 
 #: View/Users/admin_add.ctp:4
 msgid "Admin Add User"
-msgstr ""
+msgstr "Admin Lägg till Användare"
 
 #: View/Users/admin_edit.ctp:4
 msgid "Admin Edit User"
-msgstr ""
+msgstr "Admin Ändra Användare"
 
 #: View/Users/admin_view.ctp:231
 msgid "Delete User"
@@ -3828,10 +3831,12 @@ msgstr ""
 #: View/Users/bandwidth.ctp:10
 msgid "You can get unlimited downloads and a bunch of other features if you %s"
 msgstr ""
+"Du kan få tillgång till obegränsade nerladdningar och en massa andra "
+"funktioner, om du %s"
 
 #: View/Users/bandwidth.ctp:10
 msgid "upgrade now!"
-msgstr ""
+msgstr "uppgradera nu!"
 
 #: View/Users/bandwidth.ctp:14
 msgid "Learn how bandwidth is assigned"
@@ -3899,7 +3904,7 @@ msgstr ""
 
 #: View/Users/edit.ctp:46
 msgid "Basic Data"
-msgstr ""
+msgstr "Basic Data"
 
 #: View/Users/edit.ctp:79
 msgid "Preferred Language"
@@ -3907,7 +3912,7 @@ msgstr "Föredraget språk"
 
 #: View/Users/edit.ctp:83
 msgid "Would you like to help translating Blend Swap to your language?"
-msgstr ""
+msgstr "Skulle du vilja hjälpa till att översätta Blend Swap till ditt språk?"
 
 #: View/Users/edit.ctp:84
 msgid "We have set up a %s to let you do exactly that. Fork us and help now!"
@@ -3931,7 +3936,7 @@ msgstr "Blends per index sida"
 
 #: View/Users/edit.ctp:115 View/Users/portfolio.ctp:10
 msgid "For Hire"
-msgstr ""
+msgstr "För Uthyrning"
 
 #: View/Users/edit.ctp:119
 msgid "This option works only if you're either"
@@ -3939,7 +3944,7 @@ msgstr ""
 
 #: View/Users/edit.ctp:121
 msgid "an %s"
-msgstr ""
+msgstr "en %s"
 
 #: View/Users/edit.ctp:125
 msgid "a %s, and you have shared at least 10 blends"
@@ -4021,6 +4026,8 @@ msgid ""
 "When this process ends your password will be changed (you will not be able "
 "to log in) and you will be logged out of the site"
 msgstr ""
+"När denna processen avslutas, ändras ditt lösenord (du kommer inte kunna "
+"logga in) och du kommer att loggas ut från siten"
 
 #: View/Users/freeze.ctp:39
 msgid ""
@@ -4092,6 +4099,7 @@ msgstr ""
 msgid ""
 "Your public portfolio is meant to showcase your best renders and artwork"
 msgstr ""
+"Din publika portfölj är menat att visa dina bästa renderingar och konstverk"
 
 #: View/Users/portfolio.ctp:12
 msgid "Combine it with the %s badge and promote yourself for serious work"
@@ -4103,7 +4111,7 @@ msgstr ""
 
 #: View/Users/portfolio.ctp:20
 msgid "Add a new render"
-msgstr ""
+msgstr "Lägg till en ny rendering"
 
 #: View/Users/portfolio.ctp:71
 msgid "You have no images in your portfolio, do you want to upload some?"
@@ -4115,7 +4123,7 @@ msgstr ""
 
 #: View/Users/view.ctp:23;154
 msgid "Acccount and Settings"
-msgstr ""
+msgstr "Konto och Inställningar"
 
 #: View/Users/view.ctp:35
 msgid "This user has been blocked"
