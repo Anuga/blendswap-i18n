@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BlendSwap\n"
 "POT-Creation-Date: 2015-10-30 13:20+0100\n"
-"PO-Revision-Date: 2015-10-30 18:28+0100\n"
-"Last-Translator: Johan Ekström <johan.ekstrom@anuga.se>\n"
+"PO-Revision-Date: 2015-11-01 14:21+0100\n"
+"Last-Translator: Anuga <anuga@anuga.se>\n"
 "Language-Team: Anuga <anuga@anuga.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -113,7 +113,7 @@ msgstr ""
 
 #: Controller/CollectionsController.php:294
 msgid "Collection updated"
-msgstr ""
+msgstr "Kollektionen uppdaterad"
 
 #: Controller/CollectionsController.php:300
 msgid "The collection was not updated, please try again."
@@ -613,7 +613,7 @@ msgstr ""
 
 #: Controller/UsersController.php:710;735
 msgid "The user has been saved"
-msgstr ""
+msgstr "Denna användaren har blivit sparad"
 
 #: Controller/UsersController.php:713;738
 msgid "The user could not be saved. Please, try again."
@@ -897,7 +897,7 @@ msgstr "Nytt Svar"
 
 #: View/App/homepage.ctp:14
 msgid "Sign Up"
-msgstr ""
+msgstr "Registrera"
 
 #: View/App/homepage.ctp:17 View/Elements/blendswap-top-menu.ctp:467
 #: View/Pages/welcome.ctp:134 View/Users/password.ctp:61
@@ -1034,7 +1034,7 @@ msgstr ""
 
 #: View/Blends/add.ctp:104 View/Elements/navs/taxonomies.ctp:37
 msgid "Tags"
-msgstr ""
+msgstr "Taggar"
 
 #: View/Blends/add.ctp:119
 msgid "Responding to current Weekend Challenge "
@@ -1503,7 +1503,7 @@ msgstr ""
 
 #: View/Elements/blendswap-top-menu.ctp:188;231;268
 msgid "RSS Feed"
-msgstr ""
+msgstr "RSS Feed"
 
 #: View/Elements/blendswap-top-menu.ctp:196 View/Users/bandwidth.ctp:29
 #: View/Users/view.ctp:239
@@ -1590,7 +1590,7 @@ msgstr "Bandbredd"
 #: View/Elements/blendswap-top-menu.ctp:405 View/Limits/admin_view.ctp:34
 #: View/Limits/view.ctp:24 View/Users/bandwidth.ctp:54
 msgid "Spent"
-msgstr ""
+msgstr "Spenderat"
 
 #: View/Elements/blendswap-top-menu.ctp:411 View/Limits/admin_view.ctp:29
 #: View/Limits/view.ctp:32 View/Users/bandwidth.ctp:58
@@ -1616,7 +1616,7 @@ msgstr ""
 
 #: View/Elements/blendswap-top-menu.ctp:455
 msgid "Sign up"
-msgstr ""
+msgstr "Registrera"
 
 #: View/Elements/blendswap-top-menu.ctp:462
 msgid "Enter"
@@ -1836,7 +1836,7 @@ msgstr ""
 
 #: View/Elements/placeholder.ctp:40
 msgid "Blender Internal"
-msgstr ""
+msgstr "Blender Internal"
 
 #: View/Elements/placeholder.ctp:41
 msgid "External"
@@ -3272,7 +3272,7 @@ msgstr ""
 
 #: View/Questions/view.ctp:40
 msgid "Tagged"
-msgstr ""
+msgstr "Taggad"
 
 #: View/Questions/rss/index.ctp:2
 msgid "Newest Questions"
@@ -4119,7 +4119,7 @@ msgstr ""
 
 #: View/Users/stats_unavailable.ctp:7
 msgid "This view is not available right now"
-msgstr ""
+msgstr "Denna vyn är inte tillgänglig förtillfället"
 
 #: View/Users/view.ctp:23;154
 msgid "Acccount and Settings"
@@ -4127,7 +4127,7 @@ msgstr "Konto och Inställningar"
 
 #: View/Users/view.ctp:35
 msgid "This user has been blocked"
-msgstr ""
+msgstr "Denna användaren har blivit blockerad"
 
 #: View/Users/view.ctp:39
 msgid "The reasons why they were blocked will not be disclosed just now."

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BlendSwap\n"
 "POT-Creation-Date: 2013-12-04 19:50-0600\n"
-"PO-Revision-Date: 2015-10-30 14:45+0100\n"
-"Last-Translator: Johan Ekström <johan.ekstrom@anuga.se>\n"
+"PO-Revision-Date: 2015-11-01 14:13+0100\n"
+"Last-Translator: Anuga <anuga@anuga.se>\n"
 "Language-Team: Anuga <anuga@anuga.se>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -48,20 +48,23 @@ msgstr "Felaktigt värde för Blend Licensen."
 #: Model/Blend.php:validation for field blender_version
 msgid "Please choose the version of blender you used to make this blend."
 msgstr ""
+"Välj vilken version av Blender du använde för att göra denna blend filen."
 
 #: Model/Blend.php:validation for field blender_version
 msgid "Invalid value type for Blender version"
-msgstr ""
+msgstr "Felaktigt typ värde för Blender versionen"
 
 #: Model/Blend.php:validation for field tags
 msgid ""
 "Tags help others find your blend. Use at least one tag and don't forget the "
 "commas!"
 msgstr ""
+"Taggar hjälpa andra att hitta dina blend filer. Använd minst ett tag och "
+"glöm inte kommatecken!"
 
 #: Model/Blend.php:validation for field tags
 msgid "Those are not tags, write valid, comma separated tags!"
-msgstr ""
+msgstr "De är inte taggar, skriv giltiga, kommaseparerade taggar!"
 
 #: Model/Blend.php:validation for field categories
 #: Model/Request.php:validation requirements
@@ -70,7 +73,7 @@ msgstr "Välj en eller up till fyra kategorier."
 
 #: Model/Blend.php:validation for field categories
 msgid "Invalid taxonomiy input."
-msgstr ""
+msgstr "Ogiltig taxonomiy inmatning."
 
 #: Model/Blend.php:validation for field change_log
 msgid "Please tell us what you changed in the data or the files."
@@ -89,7 +92,7 @@ msgstr "Du måste välja ett alternativ."
 
 #: Model/Collection.php:validation for field name
 msgid "The collection Must have a name"
-msgstr ""
+msgstr "Kollektionen måste ha ett namn"
 
 #: Model/Collection.php:validation for field visibility
 msgid "Choose a visibility setting"
@@ -97,7 +100,7 @@ msgstr "Välj ett visnings läge"
 
 #: Model/Collection.php:validation for field visibility
 msgid "Invalid visibility value!!!"
-msgstr ""
+msgstr "Felaktigt visnings värda!!!"
 
 #: Model/Comment.php:validation for field body
 msgid "The comment cannot be empty!"
@@ -152,14 +155,14 @@ msgstr "Tomma meddelanden är inte tillåtna."
 
 #: Model/Message.php:validation for field status
 msgid "allowedStatuses"
-msgstr ""
+msgstr "allowedStatuses"
 
 #: Model/Profile.php:validation for field website;validation
 #: deviantart;validation bartists;validation flickr;validation
 #: facebook;validation youtube;validation vimeo;validation twitter;validation
 #: github;validation pinterest;validation behance;validation linkedin
 msgid "This does not look like an URL"
-msgstr ""
+msgstr "Detta ser inte ut som en URL"
 
 #: Model/Profile.php:validation for field description
 msgid "The bio must be between 24 and 1024 characters long"
@@ -184,7 +187,7 @@ msgstr "Din frågas titel måste vara mellan 10 och 256 tecken långt."
 #: Model/Question.php:validation for field tags
 msgid ""
 "Tags help other users to find your question. You must use at least one tag."
-msgstr ""
+msgstr "Taggar hjälper andra att hitta dina frågor. Du måste minst ha en tag."
 
 #: Model/Report.php:validation for field reason
 msgid "The reason contains invalid characters"
@@ -195,6 +198,8 @@ msgid ""
 "You must provide links and/or notes for us to be able to take care of your "
 "report"
 msgstr ""
+"Du måste bistå med länkar och/eller en beskrivning till oss att kunna ta "
+"hand om din rapport"
 
 #: Model/Request.php:validation for field title
 msgid "Your request must have a title"
@@ -202,7 +207,7 @@ msgstr "Din förfrågan måste ha en titel"
 
 #: Model/Request.php:validation for field body
 msgid "You must provide notes and details about the request."
-msgstr ""
+msgstr "Du måste bistå med beskrivning och detaljer om förfrågan. "
 
 #: Model/Revision.php:validation for field user_id;validation
 #: object_id;validation object_class;validation object_data;validation log
@@ -220,7 +225,7 @@ msgstr "unik"
 
 #: Model/Term.php:validation for field slug
 msgid "validChars"
-msgstr ""
+msgstr "validChars"
 
 #: Model/Term.php:validation for field slug
 msgid "between"
@@ -236,7 +241,7 @@ msgstr "Endast bokstäver och tecken, tack!"
 
 #: Model/User.php:validation for field username
 msgid "The username must be between 2 and 32 characters long!"
-msgstr ""
+msgstr "Användarnamnet måste vara mellan 2 och 32 bokstäver långt."
 
 #: Model/User.php:validation for field username
 msgid "Can not be empty"
@@ -258,12 +263,16 @@ msgstr "Det ser inte ut som en email"
 msgid ""
 "That email is already in use, maybe you signed up with tha email before?"
 msgstr ""
+"Den mailadressen används redan, du kanske redan registrerat dig med den "
+"mailadressen."
 
 #: Model/User.php:validation for field email
 msgid ""
 "This email is not allowed because Blend Swap's automated emails are not "
 "received by this domain/server."
 msgstr ""
+"Den mailadressen är ej tillåten pga Blend Swap’s automatiserade mails inte "
+"blir tas emot av detta domän/server."
 
 #: Model/User.php:validation for field password
 msgid "Must be between 8 and 128 characters long"
@@ -279,4 +288,4 @@ msgstr "Du måste acceptera användaravtalet!"
 
 #: Model/User.php:validation for field bpp
 msgid "Invalid value type"
-msgstr ""
+msgstr "Felaktigt typ värde"
